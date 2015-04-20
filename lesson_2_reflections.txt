@@ -31,3 +31,11 @@ purpose
 How do the diagrams help you visualize the branch structure?
 
 Puts branches and history into intuitive visual representation in one place.
+
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+Merging two branches together integrates the changes made in each branch
+together into one branch. The diagram visually shows how both branches come
+together. 
