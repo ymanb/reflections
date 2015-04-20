@@ -26,3 +26,8 @@ organized? How would branches help?
 
 Parallel development, experimental version, reuse older code for different
 purpose
+
+
+How do the diagrams help you visualize the branch structure?
+
+Puts branches and history into intuitive visual representation in one place.
