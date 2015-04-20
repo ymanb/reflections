@@ -38,4 +38,11 @@ the diagram the way we do?
 
 Merging two branches together integrates the changes made in each branch
 together into one branch. The diagram visually shows how both branches come
-together. 
+together.
+
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+
+Pros: convenient, save time and effort, reduce human error
+Cons: not always possible, miss chance to better understand the code
