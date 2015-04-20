@@ -12,3 +12,17 @@ The staging area is where a set of files is gathered together to commit
 together. The working area is the directory containing all files. The
 repository is only committed files. Staging area offers value by offering a
 convenient way to group files together that will be part of one commit.
+
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+Add files impacted by a logical change to staging area as changes are made.
+Commit when done making changes.
+
+
+What are some situations when branches would be helpful in keeping you history
+organized? How would branches help?
+
+Parallel development, experimental version, reuse older code for different
+purpose
