@@ -15,3 +15,9 @@ use one instead of another?
 Fork is to clone someone else's repository on Github to my Github account.
 Clone is to copy a repository onto my local computer.
 Branch is to create a new chain of commits in a repository.
+
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+You can refer to the last known state of the remote without internet
