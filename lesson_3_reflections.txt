@@ -21,3 +21,20 @@ What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
 You can refer to the last known state of the remote without internet
+
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+One way is to pass around files using email. Getting and sending files would
+be easier because everyone already knows how to use email. However almost
+everything else would be harder: keeping things organized, comparing versions,
+merging changes...
+
+
+When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+
+Changes in separate branch can be useful for experiment while master is still
+the main baseline. Or when proposing changes to a master that belongs to
+someone else. Changes directly in master is simpler.
